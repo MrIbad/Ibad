@@ -47,7 +47,7 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ _______  ______  _________ ______  
+logo = """  
 
 
 ██╗██████╗░░█████╗░██████╗░
@@ -67,12 +67,12 @@ logo = """ _______  ______  _________ ______
 
 
 
-\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mIbad Yousafxai
-\033[1;96mInstagram \033[1;93m: \033[1;92mIbad143
-\033[1;96mFacebook  \033[1;93m: \033[1;92mfeel.my.love113
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MrIbad
-\033[1;91m======================================="""
+
+\032[1;96mAuthor  \033[1;93m: \033[1;92mIbad Yousafxai
+\032[1;96mInstagram \033[1;93m: \033[1;92mIbad143
+\032[1;96mFacebook  \033[1;93m: \033[1;92mfeel.my.love113
+\031[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MrIbad
+
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -89,15 +89,13 @@ listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
-os.system("clear")
-print "\033[1;96m ============================================================="
-print  """\033[1;91m=======================================
+os.system
 \033[1;96mAuthor  \033[1;93m: \033[1;92mIbad Yousafxai
 \033[1;96mInstagram \033[1;93m: \033[1;92mIbad143
 \033[1;96mFacebook  \033[1;93m: \033[1;92mfeel.my.love143
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/MrIbad
-\033[1;91m======================================="""
-print " \x1b[1;93m============================================================="
+
+
 
 CorrectUsername = "Ibad"
 CorrectPassword = "Yousafxai"
